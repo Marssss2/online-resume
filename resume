@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jelyn Cabanding - Online Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: #f0f0f0;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #007BFF;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Jelyn Cabanding</h1>
+    <p><strong>Email:</strong> jelyn.cabanding@example.com | <strong>Phone:</strong> 09123456789</p>
+
+    <div class="section">
+      <h2>Objective</h2>
+      <p>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>BS in Information Technology (BSIT)</strong><br>Don Honorio Ventura State University<br>2023 - 2027</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Responsive Web Design</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Social Skills / Soft Skills</h2>
+      <ul>
+        <li>Teamwork and Collaboration</li>
+        <li>Effective Communication</li>
+        <li>Problem Solving</li>
+        <li>Adaptability</li>
+        <li>Time Management</li>
+        <li>Critical Thinking</li>
+        <li>Leadership Potential</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Contact</h2>
+      <p>Facebook: <a href="https://www.facebook.com/jelyn.cabanding.2024" target="_blank">facebook.com/jelyn.cabanding.2024</a></p>
+    </div>
+  </div>
+</body>
+</html>
